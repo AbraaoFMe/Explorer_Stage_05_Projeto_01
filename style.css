@@ -82,7 +82,7 @@ input, button {
 input {
     background-color: #DCE2E9;
     width: 6rem;
-    padding: .4rem 0 0 .4rem;
+    border-radius: .4rem 0 0 .4rem;
 }
 
 /* screen2 */
